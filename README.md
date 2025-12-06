@@ -5,7 +5,7 @@
 
 - 🧩 1. Stock Market Simulator Web App [StockSwift](https://stockswift.netlify.app/portfolio)
 
-- 2. E-Commerce Web Application [ShopEase](https://lambent-scone-77c0f3.netlify.app/)
+- 🛍️ 2. E-Commerce Web Application [ShopEase](https://lambent-scone-77c0f3.netlify.app/)
 
 - 🎨 3. Meme Generator App [MemeSpark](https://github.com/AjayRay230/Meme-generator)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **royajay6291@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HXH-au3ykINKiGTBnN5WY42hsA_aFeOn/view?usp=sharing](https://drive.google.com/file/d/1HXH-au3ykINKiGTBnN5WY42hsA_aFeOn/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1TthjOcqZM4DOWkTR9vXh5FLR-gWz2KIT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
